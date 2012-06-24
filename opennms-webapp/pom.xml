@@ -434,6 +434,12 @@
         <type>jar</type>
         <version>${project.version}</version>
     </dependency>
+    <dependency>
+        <groupId>org.opennms.features</groupId>
+        <artifactId>org.opennms.features.dashboard</artifactId>
+        <type>jar</type>
+        <version>${project.version}</version>
+    </dependency>
 
     <!-- test dependencies -->
     <dependency>
