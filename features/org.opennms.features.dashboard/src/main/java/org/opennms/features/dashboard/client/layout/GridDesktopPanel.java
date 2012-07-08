@@ -34,6 +34,7 @@ import com.google.gwt.user.client.ui.AbsolutePanel;
  * author: Tharindu Munasinghe (tharindumunasinghe@gmail.com)
  * org.opennms.features.dashboard
  */
+@Deprecated
 public class GridDesktopPanel extends AbsolutePanel{
 
 }
